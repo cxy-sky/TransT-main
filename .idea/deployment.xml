@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cvpr">
+    <serverData>
+      <paths name="cvpr">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/data2/zhaogaotian/transT" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/media/data2/zhaogaotian/transT/aotoman.mp4" />
+            <excludedPath path="/media/data2/zhaogaotian/transT/beauty_1656059439229.mp4" />
+            <excludedPath path="/media/data2/zhaogaotian/transT/cat.mp4" />
+            <excludedPath path="/media/data2/zhaogaotian/transT/pysot_toolkit/testing_dataset" />
+            <excludedPath path="/media/data2/zhaogaotian/transT/ltr/checkpoints/ltr/transt/transt" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
